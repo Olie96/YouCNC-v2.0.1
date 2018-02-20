@@ -1,0 +1,6 @@
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC_Service.csprojResolveAssemblyReference.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC_Service.csproj.CoreCompileInputs.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb

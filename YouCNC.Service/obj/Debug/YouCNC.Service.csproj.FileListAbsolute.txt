@@ -1,0 +1,48 @@
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csprojResolveAssemblyReference.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CoreCompileInputs.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.Ninject.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.xml
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll.config
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll.config
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.pdb
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.Ninject.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.pdb
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.xml
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csprojResolveAssemblyReference.cache
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CoreCompileInputs.cache
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll.config
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.pdb
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.Ninject.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.pdb
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\bin\Debug\Ninject.xml
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csprojResolveAssemblyReference.cache
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CoreCompileInputs.cache
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
+A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb

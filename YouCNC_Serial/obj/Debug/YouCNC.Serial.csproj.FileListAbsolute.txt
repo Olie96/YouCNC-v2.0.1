@@ -1,0 +1,16 @@
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csproj.CoreCompileInputs.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.pdb
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csprojResolveAssemblyReference.cache
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\Ninject.dll
+C:\Users\oliver.INCENDO\Documents\Visual Studio 2017\Projects\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\Ninject.xml
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.pdb
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\Ninject.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\bin\Debug\Ninject.xml
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csprojResolveAssemblyReference.cache
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csproj.CoreCompileInputs.cache
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.dll
+C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.pdb
