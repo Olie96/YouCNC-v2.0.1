@@ -46,3 +46,20 @@ A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Serv
 A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CoreCompileInputs.cache
 A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
 A:\ProgrammingProjects\YouCNC Version 2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll.config
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\YouCNC.Service.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\GNaP.DependencyInjection.Ninject.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\Ninject.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\YouCNC_Serial.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\bin\Debug\Ninject.xml
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csprojAssemblyReference.cache
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CoreCompileInputs.cache
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.csproj.CopyComplete
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC.Service\obj\Debug\YouCNC.Service.pdb

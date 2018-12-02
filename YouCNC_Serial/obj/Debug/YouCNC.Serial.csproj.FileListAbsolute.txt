@@ -14,3 +14,12 @@ C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial
 C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csproj.CoreCompileInputs.cache
 C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.dll
 C:\Users\Olie\Desktop\YouCNC Version 2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\bin\Debug\YouCNC_Serial.pdb
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\bin\Debug\Ninject.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\bin\Debug\Ninject.xml
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csprojAssemblyReference.cache
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csproj.CoreCompileInputs.cache
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\obj\Debug\YouCNC.Serial.csproj.CopyComplete
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.dll
+E:\MyDocuments\Electronics&Programming\ProgrammingProjects\GitHub - Source control\YouCNC-v2.0.1\YouCNC_Serial\obj\Debug\YouCNC_Serial.pdb
